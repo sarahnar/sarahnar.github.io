@@ -7,6 +7,10 @@ body{
     padding: 0 10px;
 }
 
+h1, h2, h3 {
+    line-height: 1.2;
+}
+/*
 aside {
     display: block;
 }
@@ -14,23 +18,11 @@ aside {
 h1 {
     display: block;
     font-size: 2em;
-    -webkit-margin-before: 0.67em;
-    -webkit-margin-after: 0.67em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
     font-weight: bold;
-}
-
-h2 {
-    line-height: 1.2;
 }
 
 p {
     display: block;
-    --webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
 }
 
 a:-webkit-any-link {
@@ -42,20 +34,11 @@ a:-webkit-any-link {
 ul {
     display: block;
     list-style-type: disc;
-    --webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    -webkit-padding-start: 40px;
 }
 
 h3 {
     display: block;
     font-size: 1.17em;
-    --webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
     font-weight: bold;
 }
 
@@ -69,10 +52,6 @@ code {
 
 hr {
     display: block;
-    --webkit-margin-before: 0.5em;
-    -webkit-margin-after: 0.5em;
-    -webkit-margin-start: auto;
-    -webkit-margin-end: auto;
     border-style: inset;
     border-width: 1px;
-}
+}*/
